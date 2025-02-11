@@ -1,6 +1,6 @@
-# MIMIC-IV ECG and Potassium Analysis
+# MIMIC-IV ECG and Potassium Extraction
 
-This project analyzes the relationship between ECG waveforms and serum potassium levels using the MIMIC-IV and MIMIC-IV-ECG databases. It matches ECG recordings with nearby potassium measurements and extracts relevant features for analysis.
+
 
 ## Prerequisites
 
