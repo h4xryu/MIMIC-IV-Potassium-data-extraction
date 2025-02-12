@@ -222,8 +222,7 @@ class MIMIC3CSVMatcher:
 
 def main():
     # Initialize matcher with your paths
-    wdb_path = "/media/jwlee/9611c7a0-8b37-472c-8bbb-66cac63bc1c7/downloads/physionet.org/files/mimic3wdb-matched/1.0"
-    csv_path = "/media/jwlee/9611c7a0-8b37-472c-8bbb-66cac63bc1c7/Hyperkalemia진단모델/dataset_mimic/mimic_iii_1_4"
+ 
 
     matcher = MIMIC3CSVMatcher(wdb_path, csv_path)
 
